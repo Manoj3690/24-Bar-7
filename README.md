@@ -6,4 +6,4 @@ Built this application using :
 * JavaScript
 
 24-Bar-7 is deployed here :
-https://manoj3690.github.io/24-Bar-7/
+https://ari25.github.io/24-Bar-7/
